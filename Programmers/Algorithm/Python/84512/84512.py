@@ -1,5 +1,7 @@
 from collections import defaultdict
 
+
+# product 함수 활용하기 
 def count_word(num):
     value = 0 
     for i in range(num):
